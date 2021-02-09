@@ -1,0 +1,13 @@
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.exe
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.deps.json
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.runtimeconfig.json
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.runtimeconfig.dev.json
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.dll
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.pdb
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.csprojAssemblyReference.cache
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.AssemblyInfo.cs
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.dll
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.pdb
+C:\Users\casia\source\repos\ConsoleAppSinglyLinkedList\ConsoleAppSinglyLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppSinglyLinkedList.genruntimeconfig.cache
