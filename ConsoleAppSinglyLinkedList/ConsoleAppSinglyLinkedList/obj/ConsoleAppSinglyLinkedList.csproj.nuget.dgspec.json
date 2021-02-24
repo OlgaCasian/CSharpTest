@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casia\\source\\repos\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList.csproj": {}
+    "C:\\Users\\casia\\CSharpTest\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casia\\source\\repos\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList.csproj": {
+    "C:\\Users\\casia\\CSharpTest\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casia\\source\\repos\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\casia\\CSharpTest\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList.csproj",
         "projectName": "ConsoleAppSinglyLinkedList",
-        "projectPath": "C:\\Users\\casia\\source\\repos\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList.csproj",
+        "projectPath": "C:\\Users\\casia\\CSharpTest\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList.csproj",
         "packagesPath": "C:\\Users\\casia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casia\\source\\repos\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\obj\\",
+        "outputPath": "C:\\Users\\casia\\CSharpTest\\ConsoleAppSinglyLinkedList\\ConsoleAppSinglyLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\casia\\AppData\\Roaming\\NuGet\\NuGet.Config",
