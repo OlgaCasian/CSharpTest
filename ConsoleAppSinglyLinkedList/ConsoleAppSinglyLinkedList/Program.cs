@@ -33,7 +33,7 @@ namespace ConsoleAppSinglyLinkedList
                 while (!TextReader.EndOfStream)
                 {
                     /*
-                     * TO DO: remove blanc spaces before and between characters and set string to lowercase
+                     * TO DO: remove blank spaces before and between characters and set string to lowercase
                      */
                     content = TextReader.ReadLine();
 
